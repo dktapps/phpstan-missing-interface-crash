@@ -1,0 +1,12 @@
+{
+   "name": "dylan-work/phpstan-playground",
+   "require": {
+      "phpstan/phpstan": "1.0.0",
+      "pocketmine/log": "^0.4.0"
+   },
+   "autoload": {
+      "psr-4": {
+         "pocketmine\\plugin\\": "src/"
+      }
+   }
+}
